@@ -27,3 +27,5 @@ app.get('/', function(req, res){
 app.listen(3005, function(){
     console.log('Status', 'Server started listening on port 3005...');
 });
+
+console.log('some stupid stuff');
